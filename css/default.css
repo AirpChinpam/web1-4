@@ -30,8 +30,8 @@ h1{
      address{
          font-size:0.75em;
          font-style:italic;
-         font-weight:normal;
-         text-decoration:underline;
+         font-weight:700;
+         text-decoration:overline;
 }
      a{
       color:#df4839;
