@@ -1,5 +1,8 @@
 @charset "UTF-8"; 
- h1{
+body{
+    background-color: #fbf9cc; /* 背景色を変える */
+} 
+h1{
       font-size:2.75em;
       color: #008000;
       text-align: center;
@@ -14,7 +17,7 @@
       }
      p{
      font-size:0.8em;
-     background-color: #3399cc;/*背景の色だけ*/
+     background-color: #3399cc;/*文字の背景の色だけ*/
      color: #333333;
      line-height:1.75em;/*行間の部分*/
      }
