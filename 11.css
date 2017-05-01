@@ -1,11 +1,32 @@
-<!DOCTYPE html>
-<html lang="ja">
-  <head>
-   h2{
-   color: red;
-   background: blue;
-  p{
-   color: yellow;
-   }
- </head>
-  
+@charset"UTF-8";
+ h1{
+      font-size:2.75em;
+      color: #008000;
+      text-align: center;
+      }
+     h2{
+      font-size:1.5em;
+      color:3399cc;
+      border:#94c8b1 1px dotted;/*境界線*/
+      border-left:#d0e35b 10px solid;
+      margin-bottom:0;/*隣り合う要素との間隔*/
+      padding:5px 20px
+      }
+     p{
+     font-size:0.8em;
+     background-color: #3399cc;/*段落の文字の背景の色だけ*/
+     color: #333333;
+     line-height:1.75em;/*行間の部分*/
+     }
+     li{
+     font-size:0.8em;
+     color: #333333;
+     }
+     
+     a{
+      color:"df4839;
+      }
+      a:active{
+       color:#008000;/*マウスを押しているときだけ特別な色*/
+       }
+       background-color: #ff1493;/*背景色*/
