@@ -32,5 +32,19 @@ h1{
       a:active{
        color:#ff705b;/*マウスを押しているときだけ特別な色*/
        }
+h1 span{
+    color: #d0e35b;
+}
+h1 a{
+    color: #d0e35b;
+}
+#lead{
+    border-top: #6fbb9a 1px dotted;
+    まじむり
+    text-align: center;
+}
+
+
+
       
 
