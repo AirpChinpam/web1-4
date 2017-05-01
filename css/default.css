@@ -1,7 +1,7 @@
 @charset "UTF-8"; 
 body{
     background-color: #fbf9cc; /* 背景色を変える */
-    background-image: url(../https://github.com/AirpChinpam/web1-4/blob/master/img/supernova-1987a-2228148_960_720.jpg);
+    background-image: url(../img/supernova-1987a-2228148_960_720.jpg);
     background-repeat: repeat-x;
 } 
 h1{
