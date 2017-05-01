@@ -38,7 +38,7 @@ h1{
       a:active{
        color:#ff705b;/*マウスを押しているときだけ特別な色*/
        }
-h1 span{
+E::first-letter h1 span{
     color: #d0e35b;
 }
 h1 a{
